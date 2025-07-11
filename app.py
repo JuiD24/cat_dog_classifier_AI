@@ -19,7 +19,7 @@ def classify_image(img):
     pred, idx, probs = learn.predict(img)
     return dict(zip(categories, map(float, probs)))
 
-image = gr.Image(shape=(192,192))
+image = gr.Image(image_mode="RGB", width=192, height=192)
 label = gr.Label()
 examples = ['dog.jpg', 'cat.jpg', 'dunno.jpg']
 
