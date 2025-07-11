@@ -2,7 +2,7 @@ cat_dog_classifier_AI
 🐶🐱 Cat vs Dog Classifier using fastai and Gradio
 A simple image classifier built using FastAI and Gradio, deployed on Hugging Face Spaces.
 
-🔗 Live Demo: Try it here
+🔗 Live Demo: [Try it here](https://huggingface.co/spaces/juidakhave/demo)
 
 ---
 title: Demo
