@@ -1,2 +1,2 @@
-fastai
+fastai==2.7.19
 gradio
